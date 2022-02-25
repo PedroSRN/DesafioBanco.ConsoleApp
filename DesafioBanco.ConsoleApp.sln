@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioBanco.ConsoleApp", "DesafioBanco.ConsoleApp\DesafioBanco.ConsoleApp.csproj", "{E847318E-818A-4D17-8B1B-FD232B354F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E847318E-818A-4D17-8B1B-FD232B354F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E847318E-818A-4D17-8B1B-FD232B354F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E847318E-818A-4D17-8B1B-FD232B354F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E847318E-818A-4D17-8B1B-FD232B354F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701ECF0A-305B-49E2-8E79-8C0C31EE678B}
+	EndGlobalSection
+EndGlobal
